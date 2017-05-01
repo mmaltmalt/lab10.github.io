@@ -2,7 +2,7 @@
 <html>
     <head>
         <meta charset="utf-8">
-        <title>{{ $title or "Texi fare calculator" }}</title>
+        <title>{{ $title or "Taxi fare calculator" }}</title>
         <link rel="stylesheet" href="/css/app.css">
         <link rel="stylesheet" href="/css/addmore.css">
     </head>

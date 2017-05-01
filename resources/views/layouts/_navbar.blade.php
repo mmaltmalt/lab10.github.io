@@ -8,7 +8,7 @@
         <span class="icon-bar"></span>
         <span class="icon-bar"></span>
       </button>
-      <a class="navbar-brand" href="/">Texi fare calculator</a>
+      <a class="navbar-brand" href="/">Taxi fare calculator</a>
     </div>
 
     <!-- Collect the nav links, forms, and other content for toggling -->
